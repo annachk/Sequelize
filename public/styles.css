@@ -1,0 +1,25 @@
+body {
+    width: 100%;
+    padding-top: 20px;
+    background-color: lightcyan; 
+}
+
+.container {
+    background-color: white;
+}
+
+.title {
+    text-align: center;
+    padding: 25px;
+    font-weight: bold;
+    font-size: 0.7cm;
+}
+
+.tableContainer {
+    display: flex;
+    justify-content: center
+}
+
+.table {
+    width: 98%;
+}
